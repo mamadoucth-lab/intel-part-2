@@ -17,6 +17,7 @@ body {
 	z-index: 10;
 	display: flex;
 	align-items: center;
+	justify-content: space-between;
 	height: 46px;
 	padding: 0 16px;
 	background: #0068b5;
@@ -25,6 +26,80 @@ body {
 
 .top-bar img {
 	width: 82px;
+}
+
+.newsletter-menu {
+	position: relative;
+}
+
+.newsletter-menu summary {
+	padding: 6px 12px;
+	border: 1px solid white;
+	border-radius: 4px;
+	color: white;
+	cursor: pointer;
+	font-weight: bold;
+	list-style: none;
+}
+
+.newsletter-menu summary::-webkit-details-marker {
+	display: none;
+}
+
+.newsletter-menu summary:hover,
+.newsletter-menu[open] summary {
+	color: #0068b5;
+	background: white;
+}
+
+.newsletter-panel {
+	position: absolute;
+	top: calc(100% + 10px);
+	right: 0;
+	width: min(300px, calc(100vw - 32px));
+	padding: 18px;
+	border-radius: 5px;
+	color: #17324d;
+	background: white;
+	box-shadow: 0 8px 24px rgba(23, 50, 77, 0.2);
+}
+
+.newsletter-panel h2 {
+	margin: 0 0 5px;
+	font-size: 20px;
+}
+
+.newsletter-panel p {
+	margin: 0 0 14px;
+	color: #526b7f;
+}
+
+.newsletter-panel label {
+	display: block;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+.newsletter-panel input {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 8px;
+	border: 1px solid #9aabb8;
+	border-radius: 4px;
+}
+
+.newsletter-panel button {
+	width: 100%;
+	padding: 8px;
+	border: 0;
+	border-radius: 4px;
+	color: white;
+	background: #0068b5;
+	cursor: pointer;
+}
+
+.newsletter-panel button:hover {
+	background: #00518e;
 }
 
 header {
@@ -173,6 +248,23 @@ header p {
 	margin: 10px 20px 45px;
 	color: #526b7f;
 	text-align: center;
+}
+
+.page-footer {
+	padding: 24px 16px;
+	color: white;
+	text-align: center;
+	background: #0068b5;
+}
+
+.page-footer p {
+	margin: 0 0 8px;
+}
+
+.page-footer a {
+	display: inline-block;
+	margin: 0 10px;
+	color: white;
 }
 
 /* On small screens, keep the line to the left of the cards */
