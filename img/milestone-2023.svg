@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" role="img" aria-labelledby="title">
+  <title id="title">Renewable electricity from wind and sun</title>
+  <rect width="500" height="200" fill="#fff5d8"/>
+  <circle cx="390" cy="55" r="31" fill="#f7c948"/>
+  <path d="M100 155h300" stroke="#17324d" stroke-width="7"/>
+  <path d="M142 150V92m0 0-33 38m33-38 33 38" stroke="#0068b5" stroke-width="7" stroke-linecap="round"/>
+  <path d="M142 92c-38-26-40-48 0-48 40 0 38 22 0 48Zm0 0c38-26 40-48 0-48" fill="none" stroke="#008f74" stroke-width="7"/>
+  <path d="M235 155V110h100v45M250 110V92h70v18" fill="#008f74" stroke="#17324d" stroke-width="6"/>
+  <path d="M250 127h70" stroke="#fff" stroke-width="6"/>
+</svg>

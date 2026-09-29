@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" role="img" aria-labelledby="title">
+  <title id="title">A new company beginning</title>
+  <rect width="500" height="200" fill="#dff1f4"/>
+  <circle cx="250" cy="96" r="58" fill="#0068b5"/>
+  <path d="M250 38v116M192 96h116" stroke="#fff" stroke-width="6"/>
+  <path d="M102 155h296" stroke="#008f74" stroke-width="12" stroke-linecap="round"/>
+  <path d="M125 155V88l40-25 40 25v67M295 155V88l40-25 40 25v67" fill="none" stroke="#17324d" stroke-width="8"/>
+</svg>

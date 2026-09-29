@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" role="img" aria-labelledby="title">
+  <title id="title">First microprocessor circuit</title>
+  <rect width="500" height="200" fill="#e7f5f1"/>
+  <rect x="170" y="45" width="160" height="110" rx="8" fill="#17324d"/>
+  <rect x="205" y="70" width="90" height="60" fill="#008f74"/>
+  <path d="M170 65H120m50 25h-70m70 25h-50m160-50h50m-50 25h70m-70 25h50M205 45V20m45 25V10m45 35v25m-90 85v25m45-25v35m45-35v-25" stroke="#0068b5" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="250" cy="100" r="16" fill="#f7c948"/>
+</svg>

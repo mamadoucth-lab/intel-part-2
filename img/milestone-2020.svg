@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" role="img" aria-labelledby="title">
+  <title id="title">RISE sustainability strategy</title>
+  <rect width="500" height="200" fill="#e5f4e9"/>
+  <circle cx="250" cy="100" r="67" fill="#008f74"/>
+  <path d="M250 45v110M195 100h110" stroke="#fff" stroke-width="5"/>
+  <path d="M160 100c0-50 40-90 90-90M340 100c0 50-40 90-90 90" fill="none" stroke="#0068b5" stroke-width="10" stroke-linecap="round"/>
+  <path d="m218 100 22 22 45-48" fill="none" stroke="#f7c948" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

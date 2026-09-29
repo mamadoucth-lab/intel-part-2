@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" role="img" aria-labelledby="title">
+  <title id="title">Greenhouse gas emissions peak</title>
+  <rect width="500" height="200" fill="#f8e6df"/>
+  <path d="M70 158h360M100 145V80h55v65m45 0V55h55v90m45 0V35h55v110" fill="#d65a4a" stroke="#17324d" stroke-width="6"/>
+  <path d="M82 35c35 0 35 28 70 28s35-28 70-28 35 28 70 28 35-28 70-28" fill="none" stroke="#526b7f" stroke-width="8"/>
+  <path d="M125 35v-13m70 13v-13m70 13v-13m70 13v-13" stroke="#526b7f" stroke-width="5"/>
+</svg>

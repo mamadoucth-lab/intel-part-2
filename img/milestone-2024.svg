@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" role="img" aria-labelledby="title">
+  <title id="title">People collaborating at a sustainability summit</title>
+  <rect width="500" height="200" fill="#e8edf8"/>
+  <path d="M120 145h260" stroke="#17324d" stroke-width="8"/>
+  <circle cx="180" cy="75" r="23" fill="#0068b5"/><circle cx="250" cy="62" r="23" fill="#008f74"/><circle cx="320" cy="75" r="23" fill="#d65a4a"/>
+  <path d="M145 145c0-32 18-48 35-48s35 16 35 48m0 0c0-42 18-63 35-63s35 21 35 63m0 0c0-32 18-48 35-48s35 16 35 48" fill="none" stroke="#17324d" stroke-width="12" stroke-linecap="round"/>
+  <path d="M224 34h52m-26-20v40" stroke="#f7c948" stroke-width="7" stroke-linecap="round"/>
+</svg>

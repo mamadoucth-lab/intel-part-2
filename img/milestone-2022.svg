@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" role="img" aria-labelledby="title">
+  <title id="title">Path toward net zero emissions</title>
+  <rect width="500" height="200" fill="#e1f0f5"/>
+  <path d="M65 160h370" stroke="#17324d" stroke-width="7"/>
+  <path d="M84 160 210 112l70 22 135-82" fill="none" stroke="#008f74" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m386 52 28 0-8 28" fill="none" stroke="#008f74" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="210" cy="112" r="13" fill="#0068b5"/><circle cx="280" cy="134" r="13" fill="#0068b5"/>
+  <path d="M100 55c22-24 57-24 79 0-22 24-57 24-79 0Z" fill="#8bc9b8"/>
+</svg>

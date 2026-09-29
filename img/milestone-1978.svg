@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" role="img" aria-labelledby="title">
+  <title id="title">8086 processor architecture</title>
+  <rect width="500" height="200" fill="#eaf1fa"/>
+  <path d="M80 148h340" stroke="#17324d" stroke-width="8"/>
+  <path d="M112 148V80l48-25 48 25v68M292 148V80l48-25 48 25v68" fill="#0068b5" stroke="#17324d" stroke-width="6"/>
+  <path d="M160 55V32m180 23V32M112 110H80m340 0h-32" stroke="#008f74" stroke-width="8" stroke-linecap="round"/>
+  <rect x="205" y="70" width="90" height="70" rx="5" fill="#f7c948"/>
+  <path d="M220 88h60m-60 20h60m-60 20h60" stroke="#17324d" stroke-width="6"/>
+</svg>
