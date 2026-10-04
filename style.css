@@ -131,6 +131,52 @@ header p {
 	font-size: 18px;
 }
 
+.focus-section {
+	padding: 55px 20px;
+	background: white;
+}
+
+.focus-section h2 {
+	margin: 0 0 28px;
+	color: #0068b5;
+	text-align: center;
+}
+
+.focus-column {
+	padding: 22px;
+	border-top: 4px solid #008f74;
+	background: #f3f8f7;
+}
+
+.focus-column h3 {
+	margin: 0 0 12px;
+	color: #17324d;
+	font-size: 21px;
+}
+
+.focus-column h3 i {
+	margin-inline-end: 8px;
+	color: #008f74;
+}
+
+.focus-column p {
+	color: #526b7f;
+}
+
+.learn-more-link {
+	display: inline-flex;
+	align-items: center;
+	gap: 7px;
+	color: #0068b5;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.learn-more-link:hover {
+	color: #00518e;
+	text-decoration: underline;
+}
+
 .timeline-section {
 	max-width: 1100px;
 	margin: 0 auto;
